@@ -1,0 +1,14 @@
+C:\Users\venus\source\repos\ContactManager\ContactManager\bin\Debug\net10.0\ContactManager.exe
+C:\Users\venus\source\repos\ContactManager\ContactManager\bin\Debug\net10.0\ContactManager.deps.json
+C:\Users\venus\source\repos\ContactManager\ContactManager\bin\Debug\net10.0\ContactManager.runtimeconfig.json
+C:\Users\venus\source\repos\ContactManager\ContactManager\bin\Debug\net10.0\ContactManager.dll
+C:\Users\venus\source\repos\ContactManager\ContactManager\bin\Debug\net10.0\ContactManager.pdb
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.AssemblyInfoInputs.cache
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.AssemblyInfo.cs
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.dll
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\refint\ContactManager.dll
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.pdb
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ContactManager.genruntimeconfig.cache
+C:\Users\venus\source\repos\ContactManager\ContactManager\obj\Debug\net10.0\ref\ContactManager.dll
