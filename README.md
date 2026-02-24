@@ -86,4 +86,4 @@ Contact data is stored in a file named `contacts.json` at the project root.
 
 ## License
 
-This project is submitted as part of the *Microsoft Summer Internship 2026*.
+This project is submitted as part of the *Microsoft Summer Internship 2026 Task-FCAI*.
